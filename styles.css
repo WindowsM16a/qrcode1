@@ -2,6 +2,7 @@
     --bgcolor: #d6e1ef;
     --casecolor: hsl(0, 0%, 100%);
     --att-color: hsl(228, 45%, 44%);
+    --text-color: #2c435e;
 }
 
 * {
@@ -37,13 +38,13 @@ body {
         width: 300px;
         background-color: var(--casecolor);
         border: none;
-        border-radius: 40px;
+        border-radius: 17px;
         padding: 20px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
         img {
             width: 260px;
-            border-radius: 10%;
+            border-radius: 5%;
         }
 
         .text {
@@ -51,21 +52,19 @@ body {
             padding: 20px 10px;
 
             h1 {
-                color: var(--attcolor);
+                color: var(--text-color);
                 font-size: 20px;
                 margin-bottom: 15px;
             }
 
             p {
-                color: var(--attcolor);
+                color: var(--text-color);
                 font-size: 15px;
                 font-weight: 400;
             }
         }
     }
 }
-
-
 
 .attribution {
     font-size: 11px;
