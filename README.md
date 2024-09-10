@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [The github repo](https://github.com/WindowsM16a/qrcode1)
+- Live Site URL: [The live URL](https://windowsm16a.github.io/qrcode1/)
 
 ## My process
 
